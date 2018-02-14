@@ -2273,7 +2273,7 @@ master:
   note: ""
   components:
      felix:
-      version: master
+      version: feature-policy-api
       url: ""
      typha:
       version: master
